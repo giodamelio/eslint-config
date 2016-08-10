@@ -1,0 +1,23 @@
+{
+  "name": "@giodamelio/eslint-config",
+  "version": "0.1.0",
+  "description": "My personal eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gio d'Amelio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodamelio/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/giodamelio/eslint-config/issues"
+  },
+  "homepage": "https://github.com/giodamelio/eslint-config#readme"
+}
