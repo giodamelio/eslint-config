@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "My personal eslint config",
   "main": "./default.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Gio d'Amelio",
   "license": "MIT",
   "repository": {
