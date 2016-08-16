@@ -38,7 +38,7 @@ module.exports = {
 
     // Allow importing devDependencies
     'import/no-extraneous-dependencies': [2, {
-      devDependencies: false,
+      devDependencies: true,
     }],
   }
 };
