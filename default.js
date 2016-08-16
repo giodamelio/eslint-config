@@ -35,5 +35,10 @@ module.exports = {
     'import/order': ['error', {
       'newlines-between': 'always'
     }],
+
+    // Allow importing devDependencies
+    'import/no-extraneous-dependencies': [2, {
+      devDependencies: false,
+    }],
   }
 };
